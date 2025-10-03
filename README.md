@@ -1,4 +1,4 @@
-<img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/dd460333-31ff-4fce-986a-8b90fb0dbb4c" /># Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event
+<img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/dd460333-31ff-4fce-986a-8b90fb0dbb4c" />#  Praktikum: Instalasi, Konfigurasi, dan Halaman Pertama Kita
 
 Instalasi, Konfigurasi, dan Halaman Pertama Kita
 
